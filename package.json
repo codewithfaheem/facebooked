@@ -1,0 +1,26 @@
+{
+  "name": "facebooked",
+  "version": "1.0.0",
+  "description": "This project is a single-page web application that replicates the Facebook login page using Tailwind CSS for styling. It serves as a practice exercise to enhance web development skills and gain hands-on experience with Tailwind CSS, a utility-first CSS framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithfaheem/facebooked.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithfaheem/facebooked/issues"
+  },
+  "homepage": "https://github.com/codewithfaheem/facebooked#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.9"
+  }
+}
